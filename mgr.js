@@ -119,12 +119,6 @@ define(['managerAPI',
                 scriptUrl: 'raceiat_trial.js'
             }],
 
-            raceiat: [{
-                type: 'time',
-                name: 'raceiat',
-                scriptUrl: 'raceiat.js'
-            }],
-
             raceiat_2: [{
                 type: 'time',
                 name: 'raceiat_2',
