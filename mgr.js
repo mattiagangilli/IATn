@@ -204,17 +204,6 @@ define(['managerAPI',
                 ]
             },
 
-            // First run (fresh round)
-            {
-                mixer: 'wrapper',
-                data: [
-                    { inherit: 'raceiat_instructions' },
-                    { inherit: 'raceiat' }
-                ]
-            },
-
-           { inherit: 'uploading' },
-            
             // Second run (fresh round)
             { inherit: 'intro_2' },
             {
